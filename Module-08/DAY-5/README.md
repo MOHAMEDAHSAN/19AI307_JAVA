@@ -16,8 +16,8 @@ Implement a Java Program to write a byte in a file "testout.txt" using FileOutpu
  ```
 /*
 Program to implement a INPUT STREAM READER
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 OutputStream f = new FileOutputStream("testout.txt",true);
 f.write(65);

@@ -20,8 +20,8 @@ Write a Java program to extract a portion of a list. index value from 1 to 3.
  ```
 /*
 Program to implement a LINKEDHASH SET
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 
 import java.util.*;

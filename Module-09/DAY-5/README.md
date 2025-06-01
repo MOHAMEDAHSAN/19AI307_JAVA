@@ -20,8 +20,8 @@ Write a Java Program for  displaying number of bytes & read the integer and char
  ```
 /*
 Program to implement a STRING WRITER
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 FileInputStream f = new FileInputStream("OutputFile.txt");
 DataInputStream di = new DataInputStream(f);

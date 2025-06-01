@@ -21,8 +21,8 @@ Write a java program to display the removal  element from the Dequeue using poll
  ```
 /*
 Program to implement a JAVA DEQUEUE
-Developed by: Yashwini M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 
 import java.util.*;

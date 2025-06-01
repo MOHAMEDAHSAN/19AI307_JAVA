@@ -14,8 +14,8 @@ To create a Java Program to store a String Value in a file "testout.txt" using D
  ```
 /*
 Program to implement a DATA I/O STREAM using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 
 FileOutputStream fout=new FileOutputStream("testout.txt");    

@@ -18,8 +18,8 @@ Write a java program to implement compile time polymorphism.(Use single argument
  ```
 /*
 Program to implement a Method Overloading in Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 class p{
     void display(){

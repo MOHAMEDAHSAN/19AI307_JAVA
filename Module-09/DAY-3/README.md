@@ -16,8 +16,8 @@
  ```
 /*
 Program to implement a String Reader using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 
 import java.io.StringReader;

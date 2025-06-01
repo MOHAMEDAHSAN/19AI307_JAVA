@@ -21,8 +21,8 @@ Write a Java program to get the first and last elements in a tree set.
  ```
 /*
 Program to implement a HASHMAP
-Developed by: YASHWINI M
-RegisterNumber:  212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 
 import java.util.*;
