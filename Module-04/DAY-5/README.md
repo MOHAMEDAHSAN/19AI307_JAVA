@@ -16,8 +16,8 @@ Write a Java program to display Citizen details [ Name, Address] with Citizenshi
  ```
 /*
 Program to implement a Parameterized Constructor Using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 public class StaticVariableExample {
     public static void main(String[] args) {

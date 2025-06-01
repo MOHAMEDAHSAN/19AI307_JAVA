@@ -22,8 +22,8 @@ To Develop a Java program to perform Multilevel Inheritance to calculate the are
  ```
 /*
 Program to implement a MultiLevel Inheritance using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.*;
 class Shapes

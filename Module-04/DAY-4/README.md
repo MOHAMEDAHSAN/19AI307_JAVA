@@ -16,8 +16,8 @@
  ```
 /*
 Program to implement a final & Static using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 class Class{
     String name,id;

@@ -17,8 +17,8 @@ To write a Java programs to swap the values of the two variables by without usin
  ```
 /*
 Program to implement a Multiple Inheritance
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.*;
 public class demo{

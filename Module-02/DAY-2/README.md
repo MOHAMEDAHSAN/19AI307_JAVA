@@ -17,8 +17,8 @@ b)	Call the display() method using the object obj.
  ```
 /*
 Program to implement a access modifiers using Java
-Developed by: YASHWINI M
-RegisterNumber:  212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 public class A
 { 

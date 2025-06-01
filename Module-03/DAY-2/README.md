@@ -18,8 +18,8 @@ Write a java program to print the text based on testcase write the program and u
  ```
 /*
 Program to implement a String Buffer using Java
-Developed by: YASHWINI M
-RegisterNumber:  212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.Scanner;
 public class StringManipulation {

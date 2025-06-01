@@ -18,8 +18,8 @@ To write a Java program that creates a StringBuilder object using a given string
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: 
-RegisterNumber:
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.*;
 public class demo{

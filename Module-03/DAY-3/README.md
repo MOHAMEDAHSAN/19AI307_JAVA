@@ -16,8 +16,8 @@ Write a program to Read input ,split word from sentence and use string builder.
  ```
 /*
 Program to implement a String Builder using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.*;
 public class Demo{

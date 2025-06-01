@@ -17,8 +17,8 @@ To create a Java Program to implement Method Local Inner Class.
  ```
 /*
 Program to implement a Inner Class using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 class login{
     private String a = "Saveetha";

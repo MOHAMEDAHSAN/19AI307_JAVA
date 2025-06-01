@@ -17,8 +17,8 @@ Write a java program to calculate the number of tokens present in the tokenizer 
  ```
 /*
 Program to implement a String Tokenizer using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

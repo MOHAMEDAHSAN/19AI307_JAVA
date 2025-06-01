@@ -21,8 +21,8 @@ b.	Create an object of ArrayOperation and call findMax() by passing the ArrayDat
  ```
 /*
 Program to implement a HAS-A RelationShip
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.Scanner;
 class ArrayOperations {

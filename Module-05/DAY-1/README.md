@@ -16,8 +16,8 @@ Write a java program to calculate the area, pass the value for length and breadt
  ```
 /*
 Program to implement a Data Hiding & Encapsulation using Java
-Developed by: YASHWINI
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 class area{
     int len;

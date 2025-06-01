@@ -15,8 +15,8 @@ Write  a Java program using copy constructor to print the area of rectangle.[l=5
  ```
 /*
 Program to implement a Constructor using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 class Rectangle 
  { 

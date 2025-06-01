@@ -17,8 +17,8 @@ To write a Java program to find out if he/she is eligible to vote. A person is e
  ```
 /*
 Program to implement a Smallest Element in an Array
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
  import java.util.*;
 public class Age{

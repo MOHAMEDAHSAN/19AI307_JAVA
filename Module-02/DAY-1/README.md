@@ -26,8 +26,8 @@ To create a java program for SumOfDigits using static and method.
  ```
 /*
 Program to implement a Static method using Java
-Developed by: YASHWINI M
-RegisterNumber: 212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 import java.util.Scanner;
 public class SumOfDigits {
