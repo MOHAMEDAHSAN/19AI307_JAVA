@@ -17,8 +17,8 @@ To develop a Java program to check given number is positive or negative number.
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: YASHWINI M
-RegisterNumber:  212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 
 import java.util.Scanner;

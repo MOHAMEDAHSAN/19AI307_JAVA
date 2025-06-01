@@ -23,8 +23,8 @@ b)	Call the 'calculateArea' method on the 'obj' object
  ```
 /*
 Program to implement a User Defined Method using Java
-Developed by: YASHWINI M
-RegisterNumber:  212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 import java.util.Scanner;
 public class Area {

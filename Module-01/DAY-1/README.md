@@ -23,8 +23,8 @@ To create a class named 'Clock' with Integer variable Hour, Mins and Secs.
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: YASHWINI M
-RegisterNumber:  212223230249
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 */
 class Clock
 {
